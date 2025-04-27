@@ -16,7 +16,7 @@
 - 🎓 Engineering Graduate in **Computer Science**
 - 🛡️ Passionate about **Cybersecurity**, **Penetration Testing**, and **Ethical Hacking**
 - 🔭 Currently working through **Hack The Box** and **TryHackMe** challenges
-- 🧠 Top 3% on TryHackMe | CEH | CPT (RedTeam Certified)
+- 🧠 Top 2% on TryHackMe | CEH | CPT (RedTeam Certified)
 - 💻 Building cool tools using **Python** & **Bash scripting**
 - 🌍 Open to **cybersecurity roles abroad**
 - 💬 Ask me about Linux, privilege escalation, or web app security
